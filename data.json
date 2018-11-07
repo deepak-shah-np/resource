@@ -1,0 +1,104 @@
+[{
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "coverImage": "cover.jpeg",
+        "shortDescription": "",
+        "attractions": [{
+                "name": "Pashupatinath Temple",
+                "code": "pashupati",
+                "address": "Pashupati Nath Road 44621, Kathmandu",
+                "shortDescription": "The Pashupatinath Temple is a famous and sacred Hindu temple complex that is located on the banks of the Bagmati River, approximately 5 kilometres north-east of Kathmandu in the eastern part of Kathmandu Valley, the capital of Nepal. The temple serves as the seat of Nepal’s national deity, Lord Pashupatinath.",
+                "description": "Dedicated to Lord Shiva, Pashupatinath is one of the four most important religious sites in Asia for devotees of Shiva. Built in the 5th century and later renovated by Malla kings, the site itself is said to have existed from the beginning of the millennium when a Shiva lingam was discovered here.The largest temple complex in Nepal, it stretches on both sides of the Bagmati River which is considered holy by Hindus.  The main pagoda style temple has a gilded roof, four sides covered in silver, and wood carvings of the finest quality. Temples dedicated to several other Hindu and Buddhist deities surround the temple of Pashupatinath.Nearby is the temple of Guheshwori dedicated to Shiva's consort Sati Devi. Cremation of Hindus take place on raised platforms along the river. Only Hindus are allowed inside the gates of the main temple. The inner sanctum has a Shiva lingam and outside sits the largest statue of Nandi the bull, the vehicle of Shiva. There are hundreds of Shiva lingam within the compound. The big Maha Shivaratri festival in spring attracts hundreds of thousands of devotees from within Nepal and from India.Experience this highly recommended religious hub for a mix of religious, cultural and spiritual experiences. Located 3 km northwest of Kathmandu on the banks of the Bagmati River, the temple area also includes Deupatan, Jaya Bageshori, Gaurighat (Holy Bath), Kutumbahal, Gaushala, Pingalasthan and Sleshmantak forest. There are around 492 temples, 15 Shivalayas (shrines of Lord Shiva) and 12 Jyotirlinga (phallic shrines) to explore.",
+                "coverImage": "pashupati.jpg",
+                "coordinates": {
+                    "lat": 85.348524,
+                    "lang": 27.710593
+                },
+                "estimatedVisitTime": "120",
+                "whatIsSpecial": "",
+                "whenToVisit": "Arati Time",
+                "specialDates": "Shivaratri, Teej",
+                "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+                "category": ["Temple", "Historic", "Hindu Temple"]
+            },
+            {
+                "name": "Swayambhunath Stupa",
+                "code": "swyambhu",
+                "address": "Kathmandu",
+                "shortDescription": "Swayambhunath is an ancient religious architecture atop a hill in the Kathmandu Valley, west of Kathmandu city. The Tibetan name for the site means 'Sublime Trees', for the many varieties of trees found on the hill.",
+                "description": "Find peace and prayers on the little hillock of Swaymbhunath in the northwest of the Kathmandu Valley. Also known as the \"Monkey Temple\" among visitors from abroad, Swayambhunath sits atop its hill, overlooking most parts of the valley. This is a good place to catch panoramic views of the city. The site itself has stood as a hallmark of faith and harmony for centuries. The glory of Kathmandu Valley is said to have started from this point. Resting on a hillock 3 km west of Kathmandu, Swayambhunath is one of the holiest Buddhist Chaityas in Nepal. It is said to have evolved spontaneously when the valley was created out of a primordial lake more than 2,000 years ago. This stupa is the oldest of its kind in Nepal and has numerous shrines and monasteries on its premises. Swayambhu literally means \"self-existent one\". According to translations from an inscription dating back to 460 A.D., it was built by King Manadeva and by the 13th century, Swayambhunath had developed into an important center of Buddhism.",
+                "coverImage": "swyambhu.jpg",
+                "coordinates": {
+                    "lat": 85.290416,
+                    "lang": 27.714844
+                },
+                "estimatedVisitTime": "120",
+                "whatIsSpecial": "",
+                "whenToVisit": "arati time",
+                "specialDates": "sivaratri, teej",
+                "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpeg"],
+                "category": ["Temple", "Historic", "Stupa"]
+            },
+            {
+                "name": "Narayanhiti palace",
+                "code": "narayanhiti",
+                "address": "Kathmandu",
+                "shortDescription": "Narayanhiti Palace Museum is the former royal palace in the centre of the Nepalese capital, Kathmandu, It is the palace which long served as a primary residence for the country's monarchs.",
+                "description": "Narayanhiti Palace Museum is the former royal palace in the centre of the Nepalese capital, Kathmandu, It is the palace which long served as a primary residence for the country's monarchs. Narayanhiti, in Narayanhiti Palace, is made up of two words ‘narayan’ and ‘hiti’. 'Naryan' is a form of Hindu god \"Lord Vishnu” whose temple is located opposite to the palace and ‘hiti’ means “water spout” which is also located to the east of main entrance in the precincts of the palace, and which has a legend associated with it. The entire enclosure surrounded by a compound wall, located in the north-central part of Kathmandu, is called the Narayanhiti palace. It was a new palace, in front of the old palace of 1915 vintage, built in 1970 in the form of a contemporary Pagoda. It was built on the occasion of the marriage of King Birenda Bir Bikram Shah, the then heir apparent to the throne. The southern gate of the palace is located at the crossing of Prithvipath and Darbarmarg roads. The palace area covers (30 hectares (74 acres)) and is fully secured with gate controlled walls on all sides. The palace, as previously discussed in Kathmandu's history, was the scene of a gruesome tragedy, termed “Nepal’s greatest tragedy”, on June 1, 2001 the then king Birendra, Queen Aishwarya and his family members were killed in a massacre. After the massacre of King Birendra and his family, his brother Gyanendra got opportunity to be the King of Nepal. The massacre of the then Royal family is still mysterious. But it is believed that Gyanendra shoot the then king Birendra and his family members. Another strong proof is that none of the family members of Gyanendra were injured. If Birendra and his son were not dead there would be no chance for Gyanendra to be the King. All these proofs point to Gyanendra. And Nepalese believe that the massacre was done by Ganendra. The newly elected assembly on 28 May 2008, after a polling of 564 constituent assembly members, 560 voted to form a new government, with the monarchist Rastriya Prajatantra Party, which had four members in the assembly, registering a dissenting note. At that point, it was declared that Nepal had become a secular and inclusive democratic republic, with the government announcing a three-day public holiday from 28 to 30 May. The King was thereafter given 15 days to vacate the Narayanhiti Royal Palace, to reopen it as a public museum, until he was asked to move out of it. Now it has been turned into a museum and is open for all to see.",
+                "coverImage": "narayanhiti.jpg",
+                "coordinates": {
+                    "lat": 85.317991,
+                    "lang": 27.713932
+                },
+                "estimatedVisitTime": "120",
+                "whatIsSpecial": "",
+                "whenToVisit": "Mon, Thu, Fri, Sat, Sun 11AM-3PM",
+                "specialDates": "sivaratri, teej",
+                "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+                "category": ["Temple", "Historic", "Stupa"]
+            },
+            {
+                "name": "Kathmandu Durbar Square",
+                "address": "Kathmandu",
+                "code": "basantpur",
+                "shortDescription": "Kathmandu Durbar Square (Basantapur Darbar Kshetra) in front of the old royal palace of the former Kathmandu Kingdom is one of three Durbar (royal palace) Squares in the Kathmandu Valley in Nepal, all of which are UNESCO World Heritage Sites.",
+                "description": "Kathmandu Durbar Square (Basantapur Darbar Kshetra) in front of the old royal palace of the former Kathmandu Kingdom is one of three Durbar (royal palace) Squares in the Kathmandu Valley in Nepal, all of which are UNESCO World Heritage Sites. Several buildings in the Square collapsed due to a major earthquake on 25 April 2015. Durbar Square was surrounded with spectacular architecture and vividly showcases the skills of the Newar artists and craftsmen over several centuries. The Royal Palace was originally at Dattaraya square and was later moved to the Durbar square. The Kathmandu Durbar Square held the palaces of the Malla and Shah kings who ruled over the city. Along with these palaces, the square surrounds quadrangles, revealing courtyards and temples. It is known as Hanuman Dhoka Durbar Square, a name derived from a statue of Hanuman, the monkey devotee of Lord Ram, at the entrance of the palace.",
+                "coverImage": "basantpur.jpg",
+                "coordinates": {
+                    "lat": 85.306712,
+                    "lang": 27.704155
+                },
+                "estimatedVisitTime": "120",
+                "whatIsSpecial": "",
+                "whenToVisit": "Mon, Thu, Fri, Sat, Sun 11AM-3PM",
+                "specialDates": "sivaratri, teej",
+                "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+                "category": ["Historic", "Palace", "Museum"]
+            }
+        ]
+    },
+    {
+        "city": "Bhaktapur",
+        "country": "Nepal",
+        "coverImage": "cover.jpg",
+        "shortDescription": "",
+        "attractions": [{
+            "name": "Bhaktapur Durbar Square",
+            "code": "bktdurbar",
+            "address": "Bhaktapur",
+            "shortDescription": "Bhaktapur Durbar Square is the plaza in front of the royal palace of the old Bhaktapur Kingdom, 1,400 metres above sea level. It is a UNESCO World Heritage Site. The Bhaktapur Durbar Square is located in the current town of Bhaktapur, also known as Bhadgaon, which lies 13 km east of Kathmandu.",
+            "description": "The ancient city Bhaktapur lies on the Eastern part of Kathmandu valley which is also known as Bhadgaon or Khwopa, Bhaktapur. It is regarded as the abode of traditional Nepali culture, custom and unique arts of wooden and potteries. The historical monument on around signifies medieval age culture and tradition of Nepal and this old city is inhabited by indigenous Newari people in large group. The main attractive monuments are Nyatapola Temple, statue of King Bhupatindra Malla, Peacock Window, Golden Gate and fifty-five windowed palace of Bhaktapur Durbar Square.",
+            "coverImage": "bktdurbar.jpg",
+            "coordinates": {
+                "lat": 85.348524,
+                "lang": 27.710593
+            },
+            "estimatedVisitTime": "120",
+            "whatIsSpecial": "",
+            "whenToVisit": "Arati Time",
+            "specialDates": "Shivaratri, Teej",
+            "images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg"],
+            "category": ["Durbar","Temple", "Historic", "Hindu Temple"]
+        }]
+    }
+]
